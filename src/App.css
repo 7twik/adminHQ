@@ -1,0 +1,23 @@
+Th,Td{
+  border-width: 1px !important;
+  border-color:black !important;
+}
+tr{
+  border-width: 1px !important;
+  border-color:black !important;
+
+}
+.tbord{
+  border-width: 1px !important;
+  border-color:black !important;
+}
+
+Tr, Td, Tbody, Thead, Table {
+  color: rgb(90, 86, 86);
+  border: 1px solid #153e4300;
+  padding: 8px;
+
+}
+Td{
+  text-align: center;
+}
